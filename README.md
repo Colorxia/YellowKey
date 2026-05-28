@@ -1,6 +1,13 @@
+<div align="center">
+
 # YellowKey - BitLocker 绕过漏洞
 
+[![English](https://img.shields.io/badge/English-README-blue)](README_EN.md)
+[![中文](https://img.shields.io/badge/中文-README-green)](README.md)
+
 > ⚠️ **免责声明：** 本项目仅供安全研究和授权渗透测试使用。使用者需遵守当地法律法规，作者不对任何滥用行为负责。
+
+</div>
 
 ## 📋 漏洞概述
 

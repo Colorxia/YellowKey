@@ -1,6 +1,13 @@
+<div align="center">
+
 # YellowKey - BitLocker Bypass Vulnerability
 
+[![English](https://img.shields.io/badge/English-README-blue)](README_EN.md)
+[![中文](https://img.shields.io/badge/中文-README-green)](README.md)
+
 > ⚠️ **Disclaimer:** This project is for security research and authorized penetration testing only. Users must comply with local laws and regulations. The author is not responsible for any misuse.
+
+</div>
 
 ## Overview
 
